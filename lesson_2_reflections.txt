@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+	An empty repo is created. The repo is not necessarily empty,
+	but it contains untracked files.
+	Initializing creates a repo that will help track changes made
+	to a particular directory.
+	
+How is the staging area differnt from the working directory and the repository?
+What value do you think it offers?
+	The staging area holds files before they are committed to the repository.
+	It is an intermediate area that acts as a buffer zone to the repo.

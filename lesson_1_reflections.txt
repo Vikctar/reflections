@@ -22,7 +22,10 @@ like you do in Git, vs having versions automatically saved, like Google docs doe
 
 Why do you think some version control systems, like Git, allow saving multiple files in
 one commit, while others, like Google Docs, treat each file separately?
-
+	
+	Saving multiple files in one commit comes in handy when all the files are linked.
+	So, a changed made in one file that is likely to affect the rest of the files in 
+	the commit is tracked in all files in that commit.
 	
 
 How can you use the commands git log and git diff to view the history file?

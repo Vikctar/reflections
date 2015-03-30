@@ -19,3 +19,8 @@ How would branches help?
 	or not.
 	Branches make it easier to work on your program i.e introduce changes,
 	and still be able to checkout the last known working commit.
+
+How fo the diagrams help you visualize the branch structure?
+	Diagrams help make a visual representation of the branches
+	and how different commits relate.
+

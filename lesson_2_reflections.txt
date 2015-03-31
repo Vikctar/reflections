@@ -28,3 +28,12 @@ What is the result of merging two branches together? Why do we present it in the
 way we do?
 	A new commit is created that has information about both of its
 	parents. Presenting it in a diagram shows relation between commits
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+	Auto merging can save you alot of time. Manual merge can be tidious,
+	if multiple contributors are involved.
+
+	Auto merge's downside is for example if a line was deleted in one branch
+	and another branch used that line say in a function call, during merging,
+	the two would get merged with no conflict. This might result in code not
+	compiling.

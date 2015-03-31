@@ -2,3 +2,9 @@ When would you want to create a remote repository rather than keeping all your w
     Remote repos help me keep backups of my project. They are also good when sharing
     code with others. It is also a good way of keeping my work updated in all the
     computers I use.
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+    Pulling manually helps me make sure that any change i pull, is a working one.
+    A new version will not always be a working version. So having it pulled 
+    automatically might mean one more bug to fix.

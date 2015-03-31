@@ -8,3 +8,16 @@ stay up-to-date with your remote repository?
     Pulling manually helps me make sure that any change i pull, is a working one.
     A new version will not always be a working version. So having it pulled 
     automatically might mean one more bug to fix.
+
+Describe the difference between forks, clones, and branches. When would you use
+one instead of another?
+    They all affect an existing version. Forking copies an entire repo to 
+    a new location and so does cloning. Forking works only on a GitHub repo
+    which can only be forked to another repo on GitHub while cloning works 
+    on any Git repository which you can clone to anywhere you have access to.
+    With branches, changes made are added in the same repository.
+
+    I would fork a repo on GitHub if i didn't have the permission to change the
+    original. Clone when I want to work locally on my computer. Branching comes
+    in handy when I need to make changes to a repository but still have access to
+    to previous verison  

@@ -1,1 +1,4 @@
 When would you want to create a remote repository rather than keeping all your work local?
+    Remote repos help me keep backups of my project. They are also good when sharing
+    code with others. It is also a good way of keeping my work updated in all the
+    computers I use.

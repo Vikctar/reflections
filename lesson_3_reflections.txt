@@ -21,3 +21,7 @@ one instead of another?
     original. Clone when I want to work locally on my computer. Branching comes
     in handy when I need to make changes to a repository but still have access to
     to previous verison  
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    It makes it easier to work even when I have no internet access. It makes it easy for
+    me to know what is the latest remote version.

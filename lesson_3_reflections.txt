@@ -25,3 +25,13 @@ one instead of another?
 What is the benefit of having a copy of the last known state of the remote stored locally?
     It makes it easier to work even when I have no internet access. It makes it easy for
     me to know what is the latest remote version.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+    I would suggest using DropBox. Although it would be had keeping track of changes
+    that have been made to the project. If the change made was on a specific part of
+    of the project then avoiding messing with each others changes would be very difficult.
+
+    I don't know of any other real-time collaborative editor that would work very well
+    with code.
+

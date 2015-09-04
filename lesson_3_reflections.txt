@@ -35,3 +35,8 @@ would be harder?
     I don't know of any other real-time collaborative editor that would work very well
     with code.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    When working/collaborating with a lot of people say more than three, it would be better
+    to make those changes in a separate branch than on master. This makes it easy to review
+    and track changes before they can be accepted into the master branch.
+    Making changes directly on master is suitable if the team is small or when working alone.
